@@ -37,8 +37,7 @@ How to install:
 - Replace the 'shops.lua' file in [ox_inventory --> data]
 - Ensure ox_inventory or restart the server to see the changes
 
-<br>
-Discord:
+Discord
 -
 For more freebies and support, join my Discord!
 <br>
