@@ -165,7 +165,7 @@ return {
 			{ loc = vector3(299.8, -580.16, 42.26), heading = 100.0, ped = 's_m_m_doctor_01', scenario = 'WORLD_HUMAN_CLIPBOARD', distance = 3.0 }, -- PILLBOX	
 			{ loc = vector3(-246.87, 6332.93, 31.43), heading = 250.0, ped = 's_m_m_doctor_01', scenario = 'WORLD_HUMAN_CLIPBOARD', distance = 3.0 }, -- PALETO
 			{ loc = vector3(-446.27, -328.75, 33.5), heading = 135.0, ped = 's_m_m_doctor_01', scenario = 'WORLD_HUMAN_CLIPBOARD', distance = 3.0 }, -- MOUNT ZONAH
-			{ loc = vector3(1836.91, 3672.28, 33 .28), heading = 250.0, ped = 's_m_m_doctor_01', scenario = 'WORLD_HUMAN_CLIPBOARD', distance = 3.0 }, -- SANDY
+			{ loc = vector3(1836.91, 3672.28, 33.28), heading = 250.0, ped = 's_m_m_doctor_01', scenario = 'WORLD_HUMAN_CLIPBOARD', distance = 3.0 }, -- SANDY
 		}
 	},
 
