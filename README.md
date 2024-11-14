@@ -42,3 +42,6 @@ Discord
 For more freebies and support, join my Discord!
 <br>
 📌 [Asgaard Developments](https://discord.gg/eFsB5ZFxeq)
+
+![Release](https://img.shields.io/github/downloads/s4t4n667/s4t4n667_oxshops/total?color=4f7492
+)
